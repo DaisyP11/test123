@@ -1,0 +1,8 @@
+pandas==2.2.1
+Pillow==9.5.0
+numpy==1.24.4
+protobuf==3.20.3
+streamlit==1.26.0
+mediapipe==0.10.10
+google-cloud-vision==3.7.2
+opencv-python-headless==4.8.0.76
