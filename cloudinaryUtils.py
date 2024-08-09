@@ -11,9 +11,7 @@ cloudinary.config(
     #cloud_name=st.secrets["REACT_APP_CLOUDINARY_CLOUD_NAME"],
     #api_key=st.secrets["REACT_APP_API_KEY"],
     #api_secret=st.secrets["REACT_APP_API_SECRET"],
-    cloud_name = "dnlt2phtf", 
-    api_key = "962463929962529", 
-    api_secret = "sc0nIG6jLBQxTBmfyyKfuSg2DgA", # Click 'View Credentials' below to copy your API secret
+    Click 'View Credentials' below to copy your API secret
 )
 
 def upload_image_to_cloudinary(image_file)->str|None:
